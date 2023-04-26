@@ -28,9 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Royale0g&show_icons=true&locale=en&theme=gotham" alt="Royale0g" /></p>
 
-
-
-
-
-
-<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/114681445/205600598-7e891023-cdff-4fb3-916c-4c5ad0c00917.gif" width="750" height="500" />
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bellidoosunamiguel&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
