@@ -24,3 +24,13 @@
 <p><a href="https://www.buymeacoffee.com/mib0s"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mib0s" /></a></p><br><br>
 
 
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Royale0g&show_icons=true&locale=en&theme=gotham" alt="Royale0g" /></p>
+
+
+
+
+
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/114681445/205600598-7e891023-cdff-4fb3-916c-4c5ad0c00917.gif" width="500" height="320" />
