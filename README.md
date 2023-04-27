@@ -26,6 +26,6 @@
 
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Royale0g&show_icons=true&locale=en&theme=gotham" alt="Royale0g" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mib0s&show_icons=true&locale=en&theme=gotham" alt="Mib0s" /></p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kzes1cbvrily1i1kxffy87elj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
